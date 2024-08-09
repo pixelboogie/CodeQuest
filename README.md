@@ -9,7 +9,6 @@ Code Quest is a project developed as part of the Coursera course for the ".NET F
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Technologies Used
@@ -44,9 +43,9 @@ To set up this project locally, follow these steps:
 
 ## Usage ##
 
-    Once the application is running, you can access the API endpoints to perform various operations. The API supports both JSON and XML data formats for input and output.
+Once the application is running, you can access the API endpoints to perform various operations. The API supports both JSON and XML data formats for input and output.
 
 
 ## License ##
 
-    This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the MIT License. See the LICENSE file for more information.
